@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Engineering Student Data Portal</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="logo" href="#top"><span class="mark">E</span>Engineering Data Portal</a>
+    <nav aria-label="Main">
+      <a href="#years">Year-wise data</a>
+      <a href="#feedback">Suggestions &amp; queries</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <div class="hero">
+    <div class="wrap">
+      <h1>All your engineering data, year by year.</h1>
+      <p>Choose your year and semester to find study materials, CAT and semester question papers, lab manuals and data.</p>
+      <a class="btn btn-primary" href="#years">Browse year-wise data</a>
+    </div>
+  </div>
+
+  <section id="years">
+    <div class="wrap">
+      <div class="crumbs" id="crumbs" aria-label="Breadcrumb"></div>
+      <div class="topline">
+        <div>
+          <h2 id="viewTitle">Year-wise data</h2>
+          <p class="sub" id="viewSub">Choose your year to see its semesters.</p>
+        </div>
+        <button class="btn btn-ghost btn-small" id="backBtn" type="button" style="display:none">Back</button>
+      </div>
+      <div id="view"></div>
+    </div>
+  </section>
+
+  <section class="feedback" id="feedback">
+    <div class="wrap">
+      <div class="fb-head">
+        <div>
+          <h2>Suggestions &amp; queries</h2>
+          <p class="sub" style="margin:0">Have an idea or a question? Send it to us.</p>
+        </div>
+        <button class="btn btn-primary" id="toggle" aria-expanded="false" aria-controls="panel" type="button">Suggestions &amp; queries</button>
+      </div>
+
+      <div class="panel" id="panel">
+        <div class="field">
+          <label for="subject">Subject</label>
+          <input type="text" id="subject" maxlength="150" autocomplete="off">
+        </div>
+        <div class="field">
+          <label for="content">Content</label>
+          <textarea id="content"></textarea>
+        </div>
+        <button class="btn btn-primary" id="submit" type="button">Submit</button>
+        <p class="msg" id="fbMsg" role="status" aria-live="polite"></p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">© Engineering Data Portal</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
