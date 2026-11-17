@@ -12,18 +12,18 @@ var DATA = {
         ["Engineering Mathematics I - Notes", ""]
       ] },
       { name: "CAT 1 Questions", text: "Continuous assessment test 1", files: [
-        ["Tamil - CAT 1 Question Paper", ""],
+        ["Tamil - CAT 1 Question Paper", "https://drive.google.com/file/d/10lQkAo3epsl8u1BIpeZqkOMxSgZhbtL9/view?usp=sharing"],
         ["English - CAT 1 Question Paper", ""],
-        ["Engineering Mathematics - CAT 1 Question Paper", ""],
-        ["Engineering Physics - CAT 1 Question Paper", ""],
-        ["Engineering Chemistry - CAT 1 Question Paper", ""],
-        ["Electrical and Instrumentation Engineering - CAT 1 Question Paper", ""]
+        ["Engineering Mathematics - CAT 1 Question Paper", "https://drive.google.com/file/d/10dv1QEJ0NlSsLFWGpS5G59kOh26nyHVC/view?usp=sharing"],
+        ["Engineering Physics - CAT 1 Question Paper", "https://drive.google.com/file/d/10hReH2jwxtA5jczkVgHCCpbMVRKCMQxT/view?usp=sharing"],
+        ["Engineering Chemistry - CAT 1 Question Paper", "https://drive.google.com/file/d/10bFKlfmYzh5FIr7lHyLV046un_ow4vX0/view?usp=sharing"],
+        ["Electrical and Instrumentation Engineering - CAT 1 Question Paper", "https://drive.google.com/file/d/10Egv7zSwvfWZhaMaDltJY0LktIxsuVL-/view?usp=sharing"]
       ] },
       { name: "CAT 2 Questions", text: "Continuous assessment test 2", files: [
-        ["Tamil - CAT 2 Question Paper", ""],
-        ["English - CAT 2 Question Paper", ""],
-        ["Engineering Mathematics - CAT 2 Question Paper", ""],
-        ["Engineering Physics - CAT 2 Question Paper", ""],
+        ["Tamil - CAT 2 Question Paper", "https://drive.google.com/file/d/10r52GZpQGzDZTbm6x-HmKOLS88T1_RpP/view?usp=sharing"],
+        ["English - CAT 2 Question Paper", "https://drive.google.com/file/d/10xfzwIdpsiTPf5z9bdmPYI9s9qBBXQjt/view?usp=sharing"],
+        ["Engineering Mathematics - CAT 2 Question Paper", "https://drive.google.com/file/d/10wqKLDOL8j5w-nDVtho-HCVUhq6hHYZ4/view?usp=sharing"],
+        ["Engineering Physics - CAT 2 Question Paper", "https://drive.google.com/file/d/10qSk84O6BdUpBPNrh0JMMhj5osHlwMTe/view?usp=sharing"],
         ["Engineering Chemistry - CAT 2 Question Paper", ""],
         ["Electrical and Instrumentation Engineering - CAT 2 Question Paper", ""]
       ] },
@@ -171,19 +171,19 @@ var DATA = {
         ["Electro Magnetic Field - CAT 1 Question Paper", ""]
       ] },
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
-        ["Control System", "https://drive.google.com/file/d/1b7H3qXfzLQuFMhVAa2bPsBU-uG5hWdI9/view?usp=drive_link"],
+        ["Control System", "https://drive.google.com/file/d/17nat97sgMjJprH1orpozwLFlgnR3Sy8D/view?usp=sharing"],
         ["Communication Engineering", ""],
-        ["Digital Signal Processing", ""],
+        ["Digital Signal Processing", "https://drive.google.com/file/d/1b7H3qXfzLQuFMhVAa2bPsBU-uG5hWdI9/view?usp=sharing"],
         ["Linear Integrated Circuits", ""],
-        ["Networks and Security", "https://drive.google.com/file/d/1TO2Gp-YxklGLZ2QAYQW1SLpIRxKWCa44/view?usp=drive_link"]
+        ["Networks and Security", "https://drive.google.com/file/d/1TO2Gp-YxklGLZ2QAYQW1SLpIRxKWCa44/view?usp=sharing"]
       ] },
       { name: "Question Bank", text: "Programs and supporting data", files: [
         ["Control System", ""],
         ["Communication Engineering", ""],
-        ["Digital Signal Processing", "https://drive.google.com/file/d/10jH_gehq_mQ6pkjVkbQ3bekouqqnQmLQ/view?usp=drive_link"],
-        ["Linear Integrated Circuits", "https://drive.google.com/file/d/1cZl8h3pMzlYy30sjver5eONn6I3zslPs/view?usp=drive_link"],
+        ["Digital Signal Processing", "https://drive.google.com/file/d/10jH_gehq_mQ6pkjVkbQ3bekouqqnQmLQ/view?usp=sharing"],
+        ["Linear Integrated Circuits", "https://drive.google.com/file/d/1cZl8h3pMzlYy30sjver5eONn6I3zslPs/view?usp=sharing"],
         ["Networks and Security", ""]
-        ["Electro Magnetic Field", "https://drive.google.com/file/d/10ZFOmvZcxz-IxScwtaeXjJgAwv7dMUi1/view?usp=drive_link"]
+        ["Electro Magnetic Field", "https://drive.google.com/file/d/10ZFOmvZcxz-IxScwtaeXjJgAwv7dMUi1/view?usp=sharing"]
       ] },
       { name: "Assignment", text: "Programs and supporting data", files: [
         ["Operating Systems Programs (zip)", ""],
@@ -195,7 +195,7 @@ var DATA = {
   /* ================= SEMESTER 5 ================= */
   5: [
       { name: "Study Materials", text: "Notes and reference material", files: [
-        ["Compiler Design - Notes", ""],
+        ["Body Area Network - Notes", "https://drive.google.com/file/d/1jfbzHWEksqLKCtdsEQ44Viuw5mTM7-Cy/view?usp=sharing"],
         ["Artificial Intelligence - Notes", ""],
         ["Web Technology - Notes", ""]
       ] },
