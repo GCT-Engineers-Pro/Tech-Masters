@@ -206,7 +206,7 @@ var DATA = {
         ["Transmission Lines and RF Signal - CAT 1 Question Paper", "https://drive.google.com/file/d/15qhkKPLLHlDLclO1XiYewRfOtPJjBYw3/view?usp=sharing"],
         ["VLSI and Chip Designing - CAT 1 Question Paper", "https://drive.google.com/file/d/1prXsu74SC_YdISXJyG2MBguJawo7th-8/view?usp=sharing"],
         ["Wireless Sensors and Network Design - CAT 1 Question Paper", "https://drive.google.com/file/d/1xowp4nny99M3FZB7cQoX811_U2rDyFlM/view?usp=sharing"],
-        ["Satellite Communication - CAT 1 Question Paper", "https://drive.google.com/file/d/1GbKRLkUJMMsWxgL4KbDIu4q_wTiRsIGf/view?usp=sharing"]
+        ["Satellite Communication - CAT 1 Question Paper", "https://drive.google.com/file/d/1GbKRLkUJMMsWxgL4KbDIu4q_wTiRsIGf/view?usp=sharing"],
         ["Remote Sensing - CAT 1 Honour Question Paper", "https://drive.google.com/file/d/1N1leoIwjwe1I3O5o41GubNSr10kPX-nH/view?usp=sharing"],
         ["Medical Imaging Systems - CAT 1 Honour Question Paper", "https://drive.google.com/file/d/1uOJv1zgXrTEwgJ2qdkTwkvg2QDDw5UBa/view?usp=sharing"]
       ] },
@@ -216,7 +216,7 @@ var DATA = {
         ["Transmission Lines and RF Signal - CAT 2 Question Paper", "https://drive.google.com/file/d/1Rq8pE62diiz9-Z4_MMoGDx4G8kOdXCGk/view?usp=sharing"],
         ["VLSI and Chip Designing - CAT 2 Question Paper", "https://drive.google.com/file/d/1yx5ZqYBwqU8PcZos0rhZVPHKGZcjY9h4/view?usp=sharing"],
         ["Wireless Sensors and Network Design - CAT 2 Question Paper", "https://drive.google.com/file/d/1wZ3-n7hcQdjQ05NFXvcmSJChDHMys1Gc/view?usp=sharing"],
-        ["Satellite Communication - CAT 2 Question Paper", "https://drive.google.com/file/d/18XSA9nVPY8QE2CcX1WeXCZYknWncSlEW/view?usp=sharing"]
+        ["Satellite Communication - CAT 2 Question Paper", "https://drive.google.com/file/d/18XSA9nVPY8QE2CcX1WeXCZYknWncSlEW/view?usp=sharing"],
         ["Remote Sensing - CAT 2 Honour Question Paper", "https://drive.google.com/file/d/1bE3ZoqYnicP1vIYlHlnBw5Mxb9P7bngw/view?usp=sharing"],
         ["Medical Imaging Systems - CAT 2 Honour Question Paper", "https://drive.google.com/file/d/1iquQQx6GDiQHPspsvZfgANlvEzqRkWrG/view?usp=sharing"]
       ] },
@@ -234,7 +234,7 @@ var DATA = {
         ["Transmission Lines and RF Signal - Question Bank", "https://drive.google.com/file/d/1arOu45v5gK7-PNr2LAn38mes_MwxaPMo/view?usp=sharing"],
         ["VLSI and Chip Designing - Question Bank", "https://drive.google.com/file/d/1vIsQ67TpqsNJsD5pvaUF9kPTfxqevQfs/view?usp=sharing"],
         ["Wireless Sensors and Network Design - Question Bank", "https://drive.google.com/file/d/1ERzxX6yzZDu1IIUgn038iWilBo5Xw5iZ/view?usp=sharing"],
-        ["Satellite Communication - Question Bank", "https://drive.google.com/file/d/1hqc3EyIBFKv9Gh2Exz1Ywv7nS3JW5hDc/view?usp=sharing"]
+        ["Satellite Communication - Question Bank", "https://drive.google.com/file/d/1hqc3EyIBFKv9Gh2Exz1Ywv7nS3JW5hDc/view?usp=sharing"],
         ["Remote Sensing - Question Bank", "https://drive.google.com/file/d/1q3YcwS0GmoH-JIB6p05LlxPjkzV4uSuw/view?usp=sharing"],
         ["Medical Imaging Systems - Question Bank", "https://drive.google.com/file/d/1UzzpXIUEaGn4qcI-mwL90bK_NUNhzo9I/view?usp=sharing"]
       ] },
@@ -249,7 +249,7 @@ var DATA = {
         ["Transmission Lines and RF Signal - Assignment 1", "https://drive.google.com/file/d/1j8xdWv4DxRuG5VozPNNik9svZa6tHyFi/view?usp=sharing"],
         ["VLSI and Chip Designing - Assignment 1", "https://drive.google.com/file/d/1eTGwQC5pbg6fjFvnzhs_xndXSrjucJxO/view?usp=sharing"],
         ["Wireless Sensors and Network Design - Assignment 1", "https://drive.google.com/file/d/1p47O3fTbP-iQzQtinb_f82r7s-BipJ58/view?usp=sharing"],
-        ["Satellite Communication - Assignment 1", "https://drive.google.com/file/d/1KDYGQLf0RdbKX3kvejifHN8ZXRnNIk_e/view?usp=sharing"]
+        ["Satellite Communication - Assignment 1", "https://drive.google.com/file/d/1KDYGQLf0RdbKX3kvejifHN8ZXRnNIk_e/view?usp=sharing"],
         ["Remote Sensing - Honour Assignment 1", "https://drive.google.com/file/d/1crpX0G22Q0mQA00QubUw0W4IqmUr_xyH/view?usp=sharing"],
         ["Medical Imaging Systems - Honour Assignment 1", "https://drive.google.com/file/d/1dmYYpKz2oW1zhSLoOh3crwPXx-YWq7j9/view?usp=sharing"]
       ] },
@@ -259,7 +259,7 @@ var DATA = {
         ["Transmission Lines and RF Signal - Assignment 2", "https://drive.google.com/file/d/1YpKfdWjbnpNGzROdt5jJs3B78p9VfyHv/view?usp=sharing"],
         ["VLSI and Chip Designing - Assignment 2", "https://drive.google.com/file/d/1peVnc5aEU--9Vj76ydFo16vYaIyN92dB/view?usp=sharing"],
         ["Wireless Sensors and Network Design - Assignment 2", "https://drive.google.com/file/d/177bJ2EUTAVneZ8yIU9a8WGmTuBfMfwdR/view?usp=sharing"],
-        ["Satellite Communication - Assignment 2", "https://drive.google.com/file/d/1rWZkOInOIRsWCtufDO0OQYHBz-aH7bHn/view?usp=sharing"]
+        ["Satellite Communication - Assignment 2", "https://drive.google.com/file/d/1rWZkOInOIRsWCtufDO0OQYHBz-aH7bHn/view?usp=sharing"],
         ["Remote Sensing - Honour Assignment 2", "https://drive.google.com/file/d/1fwjN_ctXXRbLugP9RFrQA7ET8roG-JXx/view?usp=sharing"],
         ["Medical Imaging Systems - Honour Assignment 2", "https://drive.google.com/file/d/1DwpBglObm1ImwboiQAxYom32k8PmcZVA/view?usp=sharing"]
       ] },
@@ -439,31 +439,31 @@ function showYears(){
   var grid = document.createElement("div"); grid.className = "grid";
   YEAR_NAMES.forEach(function(name, i){
     var y = i + 1;
-    grid.appendChild(makeCard(name, "Semester " + (2*y - 1) + " and Semester " + (2*y) + ".", "Open " + ORD[i] + " Year", function(){ showSemesters(y); }));
+    grid.appendChild(makeCard(name, "Semester " + (2*y - 1) + " and Semester " + (2*y) + ".", "Open " + ORD[i] + " Year", function(){ go("#/" + y); }));
   });
   view.appendChild(grid);
 }
 
 /* Level 2: the two semesters of a year */
 function showSemesters(y){
-  setBack(showYears);
-  setCrumbs([{label: "Home", action: showYears}, {label: YEAR_NAMES[y-1]}]);
+  setBack(function(){ go("#/"); });
+  setCrumbs([{label: "Home", action: function(){ go("#/"); }}, {label: YEAR_NAMES[y-1]}]);
   viewTitle.textContent = YEAR_NAMES[y-1];
   viewSub.textContent = "Choose a semester.";
   view.innerHTML = "";
   var grid = document.createElement("div"); grid.className = "grid two";
   [2*y - 1, 2*y].forEach(function(s){
-    grid.appendChild(makeCard("Semester " + s, "Study materials, CAT and semester questions, lab manuals and data.", "Open Semester " + s, function(){ showCategories(y, s); }));
+    grid.appendChild(makeCard("Semester " + s, "Study materials, CAT and semester questions, lab manuals and data.", "Open Semester " + s, function(){ go("#/" + y + "/" + s); }));
   });
   view.appendChild(grid);
 }
 
 /* Level 3: the sections of a semester (each semester has its own list) */
 function showCategories(y, s){
-  setBack(function(){ showSemesters(y); });
+  setBack(function(){ go("#/" + y); });
   setCrumbs([
-    {label: "Home", action: showYears},
-    {label: YEAR_NAMES[y-1], action: function(){ showSemesters(y); }},
+    {label: "Home", action: function(){ go("#/"); }},
+    {label: YEAR_NAMES[y-1], action: function(){ go("#/" + y); }},
     {label: "Semester " + s}
   ]);
   viewTitle.textContent = "Semester " + s;
@@ -473,7 +473,7 @@ function showCategories(y, s){
   getSections(s).forEach(function(sec, idx){
     var n = (sec.files || []).length;
     var info = (sec.text ? sec.text + " · " : "") + n + (n === 1 ? " file" : " files");
-    grid.appendChild(makeCard(sec.name, info, "Open files", function(){ showFiles(y, s, idx); }));
+    grid.appendChild(makeCard(sec.name, info, "Open files", function(){ go("#/" + y + "/" + s + "/" + idx); }));
   });
   view.appendChild(grid);
 }
@@ -481,11 +481,11 @@ function showCategories(y, s){
 /* Level 4: the files of one section */
 function showFiles(y, s, idx){
   var c = getSections(s)[idx];
-  setBack(function(){ showCategories(y, s); });
+  setBack(function(){ go("#/" + y + "/" + s); });
   setCrumbs([
-    {label: "Home", action: showYears},
-    {label: YEAR_NAMES[y-1], action: function(){ showSemesters(y); }},
-    {label: "Semester " + s, action: function(){ showCategories(y, s); }},
+    {label: "Home", action: function(){ go("#/"); }},
+    {label: YEAR_NAMES[y-1], action: function(){ go("#/" + y); }},
+    {label: "Semester " + s, action: function(){ go("#/" + y + "/" + s); }},
     {label: c.name}
   ]);
   var files = c.files || [];
@@ -545,4 +545,32 @@ document.getElementById("submit").addEventListener("click", function(){
   window.location.href = url;
 });
 
-showYears();
+
+function go(route){ location.hash = route; }
+
+function render(){
+  var h = location.hash;
+  if (h && h.indexOf("#/") !== 0) return false;   /* links like #years or #feedback: leave the menu as it is */
+  var p = h.replace(/^#\/?/, "").split("/").filter(Boolean).map(Number);
+  var y = p[0], s = p[1], i = p[2];
+  if (y >= 1 && y <= 4){
+    if (s === 2*y - 1 || s === 2*y){
+      if (DATA[s] && DATA[s][i] !== undefined) showFiles(y, s, i);
+      else showCategories(y, s);
+    } else {
+      showSemesters(y);
+    }
+  } else {
+    showYears();
+  }
+  return true;
+}
+
+window.addEventListener("hashchange", function(){
+  if (render()){
+    var sec = document.getElementById("years");
+    if (sec && sec.scrollIntoView) sec.scrollIntoView();
+  }
+});
+
+render();
