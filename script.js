@@ -195,25 +195,30 @@ var DATA = {
   /* ================= SEMESTER 5 ================= */
   5: [
       { name: "Study Materials", text: "Notes and reference material", files: [
-        ["Body Area Network - Notes", "https://drive.google.com/file/d/1jfbzHWEksqLKCtdsEQ44Viuw5mTM7-Cy/view?usp=sharing"],
-        ["Artificial Intelligence - Notes", ""],
-        ["Web Technology - Notes", ""]
+        ["Body Area Network - Notes", "https://drive.google.com/file/d/1JUS30TdT_2O4EZ_gC3-V0ElOeM3mvfFq/view?usp=sharing"],
+        ["Wireless Sensors and Network Design - Notes", "https://drive.google.com/file/d/1_PMncgu99bl9y23haYYxmTYHIIy9lmBu/view?usp=sharing"],
+        ["Remote Sensing - Notes", "https://drive.google.com/file/d/1ArsWaxSIn-j9QWLri4JO-Ru6fPGO1KAw/view?usp=sharing"],
+        ["Medical Imaging System - Notes", "https://drive.google.com/file/d/1Xh-84QGJIyYfboa3BnyGEV2V-D8mjxTH/view?usp=sharing"]
       ] },
       { name: "CAT 1 Questions", text: "Continuous assessment test 1", files: [
-        ["Body Area Network - CAT 1 Question Paper", ""],
-        ["Microcontroller and IoT Architecture - CAT 1 Question Paper", ""],
-        ["Transmission Lines and RF Signal - CAT 1 Question Paper", ""],
-        ["VLSI and Chip Designing - CAT 1 Question Paper", ""],
-        ["Wireless Sensors and Network Design - CAT 1 Question Paper", ""],
-        ["Satellite Communication - CAT 1 Question Paper", ""]
+        ["Body Area Network - CAT 1 Question Paper", "https://drive.google.com/file/d/1XIqY0MCwyD1pNKVNjWcYRO5xkN6HvBnQ/view?usp=sharing"],
+        ["Microcontroller and IoT Architecture - CAT 1 Question Paper", "https://drive.google.com/file/d/1inLSK4R8d_Rvb7jQgqPE4a908livonr5/view?usp=sharing"],
+        ["Transmission Lines and RF Signal - CAT 1 Question Paper", "https://drive.google.com/file/d/15qhkKPLLHlDLclO1XiYewRfOtPJjBYw3/view?usp=sharing"],
+        ["VLSI and Chip Designing - CAT 1 Question Paper", "https://drive.google.com/file/d/1prXsu74SC_YdISXJyG2MBguJawo7th-8/view?usp=sharing"],
+        ["Wireless Sensors and Network Design - CAT 1 Question Paper", "https://drive.google.com/file/d/1xowp4nny99M3FZB7cQoX811_U2rDyFlM/view?usp=sharing"],
+        ["Satellite Communication - CAT 1 Question Paper", "https://drive.google.com/file/d/1GbKRLkUJMMsWxgL4KbDIu4q_wTiRsIGf/view?usp=sharing"]
+        ["Remote Sensing - CAT 1 Honour Question Paper", "https://drive.google.com/file/d/1N1leoIwjwe1I3O5o41GubNSr10kPX-nH/view?usp=sharing"],
+        ["Medical Imaging Systems - CAT 1 Honour Question Paper", "https://drive.google.com/file/d/1uOJv1zgXrTEwgJ2qdkTwkvg2QDDw5UBa/view?usp=sharing"]
       ] },
       { name: "CAT 2 Questions", text: "Continuous assessment test 2", files: [
-        ["Body Area Network - CAT 2 Question Paper", ""],
-        ["Microcontroller and IoT Architecture - CAT 2 Question Paper", ""],
-        ["Transmission Lines and RF Signal - CAT 2 Question Paper", ""],
-        ["VLSI and Chip Designing - CAT 2 Question Paper", ""],
-        ["Wireless Sensors and Network Design - CAT 2 Question Paper", ""],
-        ["Satellite Communication - CAT 2 Question Paper", ""]
+        ["Body Area Network - CAT 2 Question Paper", "https://drive.google.com/file/d/15_jLD_TaAoO1QXN_DeXGWl_OEUc9fZzq/view?usp=sharing"],
+        ["Microcontroller and IoT Architecture - CAT 2 Question Paper", "https://drive.google.com/file/d/1iquQQx6GDiQHPspsvZfgANlvEzqRkWrG/view?usp=sharing"],
+        ["Transmission Lines and RF Signal - CAT 2 Question Paper", "https://drive.google.com/file/d/1Rq8pE62diiz9-Z4_MMoGDx4G8kOdXCGk/view?usp=sharing"],
+        ["VLSI and Chip Designing - CAT 2 Question Paper", "https://drive.google.com/file/d/1yx5ZqYBwqU8PcZos0rhZVPHKGZcjY9h4/view?usp=sharing"],
+        ["Wireless Sensors and Network Design - CAT 2 Question Paper", "https://drive.google.com/file/d/1wZ3-n7hcQdjQ05NFXvcmSJChDHMys1Gc/view?usp=sharing"],
+        ["Satellite Communication - CAT 2 Question Paper", "https://drive.google.com/file/d/18XSA9nVPY8QE2CcX1WeXCZYknWncSlEW/view?usp=sharing"]
+        ["Remote Sensing - CAT 2 Honour Question Paper", "https://drive.google.com/file/d/1bE3ZoqYnicP1vIYlHlnBw5Mxb9P7bngw/view?usp=sharing"],
+        ["Medical Imaging Systems - CAT 2 Honour Question Paper", "https://drive.google.com/file/d/1iquQQx6GDiQHPspsvZfgANlvEzqRkWrG/view?usp=sharing"]
       ] },
       { name: "Semester Questions", text: "End semester question papers", files: [
         ["Body Area Network - Semester Question Paper", ""],
@@ -223,12 +228,43 @@ var DATA = {
         ["Wireless Sensors and Network Design - Semester Question Paper", ""],
         ["Satellite Communication - Semester Question Paper", ""]
       ] },
+      { name: "Question Bank", text: "Questions Bank for CAT Test", files: [
+        ["Body Area Network - Question Bank", "https://drive.google.com/file/d/1QcpmtjEGRJ8SrF2DRvcaEtvkTNjvpriR/view?usp=sharing"],
+        ["Microcontroller and IoT Architecture - Question Bank", "https://drive.google.com/file/d/1CGeIMKWVxdvQNMiBooRAGM0oqhBbuqCM/view?usp=sharing"],
+        ["Transmission Lines and RF Signal - Question Bank", "https://drive.google.com/file/d/1arOu45v5gK7-PNr2LAn38mes_MwxaPMo/view?usp=sharing"],
+        ["VLSI and Chip Designing - Question Bank", "https://drive.google.com/file/d/1vIsQ67TpqsNJsD5pvaUF9kPTfxqevQfs/view?usp=sharing"],
+        ["Wireless Sensors and Network Design - Question Bank", "https://drive.google.com/file/d/1ERzxX6yzZDu1IIUgn038iWilBo5Xw5iZ/view?usp=sharing"],
+        ["Satellite Communication - Question Bank", "https://drive.google.com/file/d/1hqc3EyIBFKv9Gh2Exz1Ywv7nS3JW5hDc/view?usp=sharing"]
+        ["Remote Sensing - Question Bank", "https://drive.google.com/file/d/1q3YcwS0GmoH-JIB6p05LlxPjkzV4uSuw/view?usp=sharing"],
+        ["Medical Imaging Systems - Question Bank", "https://drive.google.com/file/d/1UzzpXIUEaGn4qcI-mwL90bK_NUNhzo9I/view?usp=sharing"]
+      ] },
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
-        ["Microcontroller and IoT Architecture Lab", ""],
-        ["VLSI and Chip Designing Lab", ""]
+        ["Microcontroller and IoT Architecture Lab", "https://drive.google.com/file/d/1SDom7gLLB9qPvnT8-fxGH6dAKWKicssP/view?usp=sharing"],
+        ["VLSI and Chip Designing Lab", "https://drive.google.com/file/d/1w4KN-8IAIZROyzWOA-68Exq9E1b3TxJY/view?usp=sharing"],
+        ["VLSI Output result", "https://drive.google.com/file/d/1CqeoFCCkpaZ1Ceu0SoxioUVCmuiTnuf2/view?usp=sharing"]
+      ] },
+      { name: "Assignment 1", text: "Assignments 1 Questions", files: [
+        ["Body Area Network - Assignment 1", "https://drive.google.com/file/d/1CuTlz-NcFFQ2s2S-397f-SmcEUHhQpbX/view?usp=sharing"],
+        ["Microcontroller and IoT Architecture - Assignment 1", "https://drive.google.com/file/d/14G1_Q8O6QwSmkpEw-EEQcrlXEZfCi_A6/view?usp=sharing"],
+        ["Transmission Lines and RF Signal - Assignment 1", "https://drive.google.com/file/d/1j8xdWv4DxRuG5VozPNNik9svZa6tHyFi/view?usp=sharing"],
+        ["VLSI and Chip Designing - Assignment 1", "https://drive.google.com/file/d/1eTGwQC5pbg6fjFvnzhs_xndXSrjucJxO/view?usp=sharing"],
+        ["Wireless Sensors and Network Design - Assignment 1", "https://drive.google.com/file/d/1p47O3fTbP-iQzQtinb_f82r7s-BipJ58/view?usp=sharing"],
+        ["Satellite Communication - Assignment 1", "https://drive.google.com/file/d/1KDYGQLf0RdbKX3kvejifHN8ZXRnNIk_e/view?usp=sharing"]
+        ["Remote Sensing - Honour Assignment 1", "https://drive.google.com/file/d/1crpX0G22Q0mQA00QubUw0W4IqmUr_xyH/view?usp=sharing"],
+        ["Medical Imaging Systems - Honour Assignment 1", "https://drive.google.com/file/d/1dmYYpKz2oW1zhSLoOh3crwPXx-YWq7j9/view?usp=sharing"]
+      ] },
+      { name: "Assignment 2", text: "Assignment 2 Questions", files: [
+        ["Body Area Network - Assignment 2", "https://drive.google.com/file/d/1n4VlCWnRVSR8J3Q-zGxG3QwwEHf5GxFz/view?usp=sharing"],
+        ["Microcontroller and IoT Architecture - Assignment 2", "https://drive.google.com/file/d/1Qsh_kDmjszu7QjdTX89qfH0slSX0Ezys/view?usp=sharing"],
+        ["Transmission Lines and RF Signal - Assignment 2", "https://drive.google.com/file/d/1YpKfdWjbnpNGzROdt5jJs3B78p9VfyHv/view?usp=sharing"],
+        ["VLSI and Chip Designing - Assignment 2", "https://drive.google.com/file/d/1peVnc5aEU--9Vj76ydFo16vYaIyN92dB/view?usp=sharing"],
+        ["Wireless Sensors and Network Design - Assignment 2", "https://drive.google.com/file/d/177bJ2EUTAVneZ8yIU9a8WGmTuBfMfwdR/view?usp=sharing"],
+        ["Satellite Communication - Assignment 2", "https://drive.google.com/file/d/1rWZkOInOIRsWCtufDO0OQYHBz-aH7bHn/view?usp=sharing"]
+        ["Remote Sensing - Honour Assignment 2", "https://drive.google.com/file/d/1fwjN_ctXXRbLugP9RFrQA7ET8roG-JXx/view?usp=sharing"],
+        ["Medical Imaging Systems - Honour Assignment 2", "https://drive.google.com/file/d/1DwpBglObm1ImwboiQAxYom32k8PmcZVA/view?usp=sharing"]
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
-        ["Compiler Design Programs (zip)", ""],
+        ["VLSI Microwind Software (zip)", "https://drive.google.com/file/d/1-DtqVYSmj0Pl119EvtxaItAwq6eAlzmY/view?usp=sharing"],
         ["AI Practice Datasets", ""],
         ["Web Technology Sample Projects (zip)", ""]
       ] }
