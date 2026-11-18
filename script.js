@@ -79,7 +79,8 @@ var DATA = {
         ["Environmental Science - Semester Question Paper", "https://drive.google.com/file/d/1dYP8J0Z6qahfswH2s8awwwza6LRHpF4L/view?usp=sharing"]
       ] },
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
-        ["C Programming and Data Structures Lab Manual", "https://drive.google.com/file/d/1Ru_StJxvS3mc-Nrn3d_KKqnEl1HXwnEv/view?usp=sharing"]
+        ["C Programming and Data Structures Lab Manual", "https://drive.google.com/file/d/1Ru_StJxvS3mc-Nrn3d_KKqnEl1HXwnEv/view?usp=sharing"],
+        ["BEEE Laboratory", ""]
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
         ["C Sample Programs (zip)", ""],
