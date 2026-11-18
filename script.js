@@ -79,8 +79,7 @@ var DATA = {
         ["Environmental Science - Semester Question Paper", "https://drive.google.com/file/d/1dYP8J0Z6qahfswH2s8awwwza6LRHpF4L/view?usp=sharing"]
       ] },
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
-        ["C Programming and Data Structures Lab Manual", "https://drive.google.com/file/d/1Ru_StJxvS3mc-Nrn3d_KKqnEl1HXwnEv/view?usp=sharing"],
-        ["BEEE Laboratory", ""]
+        ["C Programming and Data Structures Lab Manual", "https://drive.google.com/file/d/1Ru_StJxvS3mc-Nrn3d_KKqnEl1HXwnEv/view?usp=sharing"]
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
         ["C Sample Programs (zip)", ""],
@@ -94,8 +93,8 @@ var DATA = {
       { name: "Study Materials", text: "Notes and reference material", files: [
         ["Circuit Analysis - Notes", "https://drive.google.com/file/d/1sNpOm_6hO7tRR0jc6U_AIrb5vZHR-zQi/view?usp=sharing"],
         ["Electronics Devices and Circuits - Notes", "https://drive.google.com/file/d/1XrfJCjsUDwOUSgHX7iuSimbOaU75m7iJ/view?usp=sharing"],
-        ["Random Processing and Linear Algebra - Notes", "https://drive.google.com/file/d/1COKvwPgeTXJetssjCYrD1AqS4gnMVQ8R/view?usp=sharing"]
-        ["Problem Solving and Python Programming - Notes", "https://drive.google.com/file/d/1o8DPqsh-Fe1kd9TNtTPX0GXJo_ipplaH/view?usp=sharing"]
+        ["Random Processing and Linear Algebra - Notes", "https://drive.google.com/file/d/1COKvwPgeTXJetssjCYrD1AqS4gnMVQ8R/view?usp=sharing"],
+        ["Problem Solving and Python Programming - Notes", "https://drive.google.com/file/d/1o8DPqsh-Fe1kd9TNtTPX0GXJo_ipplaH/view?usp=sharing"],
         ["Disasater and Risk Reduction Management (Madatory course sem N/A)", "https://drive.google.com/file/d/15arF9R0zfN7DikVzxE87duXAp4TF7NU0/view?usp=sharing"]
       ] },
       { name: "CAT 1 Questions", text: "Continuous assessment test 1", files: [
