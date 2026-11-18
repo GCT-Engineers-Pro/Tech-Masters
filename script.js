@@ -50,38 +50,36 @@ var DATA = {
   /* ================= SEMESTER 2 ================= */
   2: [
       { name: "Study Materials", text: "Notes and reference material", files: [
-        ["Tamil - Unit 1 to 5 Notes", ""],
-        ["English - Technical English Notes", ""],
-        ["Engineering Mathematics II - Notes", ""]
+        ["Technical English - Notes", "https://drive.google.com/file/d/1EvniJFf6xtZnyjqrQSdlgiynMKyl0OsN/view?usp=sharing"],
+        ["C Programming and Data Structure - Technical English Notes", "https://drive.google.com/file/d/1Gl1R6yZ_MHgP-aPJvpzWyvfaHeEezGsh/view?usp=sharing"],
+        ["Physics For Electronics Engineering - Notes", "https://drive.google.com/file/d/1QZmd1Fs8NUhoOdC17bwjstYgwic1xJk5/view?usp=sharing"],
+        ["Environmental Science - Notes", "https://drive.google.com/file/d/1eJ8j78MDnA4WDIbMdoCNhFSlxL04-nKQ/view?usp=sharing"]
       ] },
       { name: "CAT 1 Questions", text: "Continuous assessment test 1", files: [
-        ["Heritage Tamil - CAT 1 Question Paper", ""],
-        ["Technical English - CAT 1 Question Paper", ""],
-        ["TPDE - CAT 1 Question Paper", ""],
-        ["Physics for Electronics Engineering - CAT 1 Question Paper", ""],
-        ["Environmental Science - CAT 1 Question Paper", ""],
-        ["Engineering Graphics - CAT 1 Question Paper", ""]
+        ["Tamil and Technology - CAT 1 Question Paper", "https://drive.google.com/file/d/1vrOpjeThFiS3ayCtpCJK-j1C5NTnfWqI/view?usp=sharing"],
+        ["Technical English - CAT 1 Question Paper", "https://drive.google.com/file/d/1UDkXbIkhBgDGiHJc05La7e84lAz9e5oI/view?usp=sharing"],
+        ["TPDE - CAT 1 Question Paper", "https://drive.google.com/file/d/1kzv9w2FxCxgDTJJfXphOfXT1kv-7tI9J/view?usp=sharing"],
+        ["Physics for Electronics Engineering - CAT 1 Question Paper", "https://drive.google.com/file/d/1dlhTrcgKty_-BTEqiBLLSeUuRccG2D2d/view?usp=sharing"],
+        ["Environmental Science - CAT 1 Question Paper", "https://drive.google.com/file/d/1Y53PluVZYpw_hKj3iL3Ux62mnsiXRs7D/view?usp=sharing"],
+        ["Engineering Graphics - CAT 1 Question Paper", "https://drive.google.com/file/d/1jNJsgybm0t6SVU9JOYMWfoqwjkeciJaM/view?usp=sharing"]
       ] },
       { name: "CAT 2 Questions", text: "Continuous assessment test 2", files: [
-        ["Heritage Tamil - CAT 2 Question Paper", ""],
-        ["Technical English - CAT 2 Question Paper", ""],
-        ["TPDE - CAT 2 Question Paper", ""],
-        ["Physics for Electronics Engineering - CAT 2 Question Paper", ""],
-        ["Environmental Science - CAT 2 Question Paper", ""],
-        ["Engineering Graphics - CAT 2 Question Paper", ""]
+        ["Tamil and Technology - CAT 2 Question Paper", "https://drive.google.com/file/d/1Wj9TKBwF7n8N-q4DBuEG-GdTt_PghtTt/view?usp=sharing"],
+        ["Technical English - CAT 2 Question Paper", "https://drive.google.com/file/d/15EBt7-cYZh21LjJyvnUAKrWUWkw6fxYX/view?usp=sharing"],
+        ["TPDE - CAT 2 Question Paper", "https://drive.google.com/file/d/1aQ4PF8aWY1L8OFzI2dC37tiUoRQHynuj/view?usp=sharing"],
+        ["Physics for Electronics Engineering - CAT 2 Question Paper", "https://drive.google.com/file/d/1ZKO2xUXFO-l0kTtl_FDQvwF-Zfi6_KGt/view?usp=sharing"],
+        ["Environmental Science - CAT 2 Question Paper", "https://drive.google.com/file/d/1ILz7sgVnnK8VDVVR7C3MJvWSNUz9hOCD/view?usp=sharing"],
+        ["Engineering Graphics - CAT 2 Question Paper", "https://drive.google.com/file/d/1MDpRma81Pj8Vfp_QIZx7oyZWsFnZJMxS/view?usp=sharing"]
       ] },
       { name: "Semester Questions", text: "End semester question papers", files: [
-        ["Heritage Tamil - Semester Question Paper", ""],
-        ["Technical English - Semester Question Paperr", ""],
-        ["TPDE - Semester Question Paper", ""],
-        ["Physics for Electronics Engineering - Semester Question Paper", ""],
-        ["Environmental Science - Semester Question Paper", ""],
-        ["Engineering Graphics - Semester Question Paper", ""]
+        ["Tamil and Technology - Semester Question Paper", "https://drive.google.com/file/d/1US5hEZwsLdjN0LMV4OZiic0qDPFEEg5E/view?usp=sharing"],
+        ["Technical English - Semester Question Paperr", "https://drive.google.com/file/d/1njeksM3atzos3PU5boXSyyVpW_9F9uE_/view?usp=sharing"],
+        ["TPDE - Semester Question Paper", "https://drive.google.com/file/d/1Zm64Lj4I5-kGDdEUMa2WVLk-9EmRazY0/view?usp=sharing"],
+        ["Physics for Electronics Engineering - Semester Question Paper", "https://drive.google.com/file/d/1MKiHYpbWPwjUOVbM6W6sL-UPXfEDJO7I/view?usp=sharing"],
+        ["Environmental Science - Semester Question Paper", "https://drive.google.com/file/d/1dYP8J0Z6qahfswH2s8awwwza6LRHpF4L/view?usp=sharing"]
       ] },
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
-        ["Basic Electrical Engineering Lab Manual", ""],
-        ["Programming in C Lab Manual", ""],
-        ["Engineering Practices Lab Manual", ""]
+        ["C Programming and Data Structures Lab Manual", "https://drive.google.com/file/d/1Ru_StJxvS3mc-Nrn3d_KKqnEl1HXwnEv/view?usp=sharing"]
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
         ["C Sample Programs (zip)", ""],
@@ -93,9 +91,11 @@ var DATA = {
   /* ================= SEMESTER 3 ================= */
   3: [
       { name: "Study Materials", text: "Notes and reference material", files: [
-        ["Data Structures - Notes", ""],
-        ["Digital Electronics - Notes", ""],
-        ["Discrete Mathematics - Notes", ""]
+        ["Circuit Analysis - Notes", "https://drive.google.com/file/d/1sNpOm_6hO7tRR0jc6U_AIrb5vZHR-zQi/view?usp=sharing"],
+        ["Electronics Devices and Circuits - Notes", "https://drive.google.com/file/d/1XrfJCjsUDwOUSgHX7iuSimbOaU75m7iJ/view?usp=sharing"],
+        ["Random Processing and Linear Algebra - Notes", "https://drive.google.com/file/d/1COKvwPgeTXJetssjCYrD1AqS4gnMVQ8R/view?usp=sharing"]
+        ["Problem Solving and Python Programming - Notes", "https://drive.google.com/file/d/1o8DPqsh-Fe1kd9TNtTPX0GXJo_ipplaH/view?usp=sharing"]
+        ["Disasater and Risk Reduction Management (Madatory course sem N/A)", "https://drive.google.com/file/d/15arF9R0zfN7DikVzxE87duXAp4TF7NU0/view?usp=sharing"]
       ] },
       { name: "CAT 1 Questions", text: "Continuous assessment test 1", files: [
         ["Circuit Analysis - CAT 1 Question Paper", ""],
@@ -114,12 +114,12 @@ var DATA = {
         ["Signals snd Systems - CAT 2 Question Paper", ""]
       ] },
       { name: "Semester Questions", text: "End semester question papers", files: [
-        ["Circuit Analysis - Semester Question Paper", ""],
-        ["Digital Electronics - Semester Question Paper", ""],
-        ["Electronics Devices and Circuits - Semester Question Paper", ""],
-        ["Problem Solving and Python Programming - Semester Question Paperr", ""],
-        ["Random Processing and Linear Algebrs - Semester Question Paperr", ""],
-        ["Signals snd Systems - Semester Question Paper", ""]
+        ["Circuit Analysis - Semester Question Paper", "https://drive.google.com/file/d/168iA1kX6mwZyGn73bNn-sSFry06eoyLJ/view?usp=sharing"],
+        ["Digital Electronics - Semester Question Paper", "https://drive.google.com/file/d/14R7AXcQqg9YmDvowHgJKVT4Mqr3pjiDi/view?usp=sharing"],
+        ["Electronics Devices and Circuits - Semester Question Paper", "https://drive.google.com/file/d/10Vkm9vx5kVG_u6VqWm7m32rcFHiXvfF4/view?usp=sharing"],
+        ["Problem Solving and Python Programming - Semester Question Paperr", "https://drive.google.com/file/d/1pm7Lmv4UsxqUdsbqIkGz5V0uUNeIOAHc/view?usp=sharing"],
+        ["Random Processing and Linear Algebrs - Semester Question Paperr", "https://drive.google.com/file/d/1k2OEPsZzn2drmB-mAmoVy8aeiWBaia57/view?usp=sharing"],
+        ["Signals snd Systems - Semester Question Paper", "https://drive.google.com/file/d/1slJiETA8Nh6PrNqF4LDwlpjr3N69M5tu/view?usp=sharing"]
       ] },
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
         ["Digital Electronics Lab Manual", "https://drive.google.com/file/d/1VZnAvxVP1Q1EW8xISNfmh9G7oS9vVj0o/view?usp=drive_link"],
@@ -131,64 +131,53 @@ var DATA = {
         ["Data Structures Programs (zip)", ""],
         ["Digital Electronics Circuit Diagrams", ""],
         ["Discrete Mathematics Problem Set", ""]
-      ] },
-      { name: "Assignments", text: "Assignment questions and answers", files: [
-        ["Data Structures - Assignment 1", ""],
-        ["Digital Electronics - Assignment 1", ""],
-        ["Discrete Mathematics - Assignment 1", ""]
       ] }
   ],
 
   /* ================= SEMESTER 4 ================= */
   4: [
       { name: "Study Materials", text: "Notes and reference material", files: [
-        ["Operating Systems - Notes", ""],
-        ["Computer Networks - Notes", ""],
-        ["Design and Analysis of Algorithms - Notes", ""]
+        ["Control System Engineering", "https://drive.google.com/file/d/1tAFU41YBJ54sZtBbxJUx4ktPtxUgfhaj/view?usp=sharing"],
+        ["Linear Integrated Circuits - Notes", ""]
       ] },
       { name: "CAT 1 Questions", text: "Continuous assessment test 1", files: [
-        ["Communication Engineering - CAT 1 Question Paper", ""],
-        ["Control System - CAT 1 Question Paper", ""],
-        ["Digital Signal Processing - CAT 1 Question Paper", ""],
-        ["Linear Integrated Circuits - CAT 1 Question Paper", ""],
-        ["Network and Security - CAT 1 Question Paper", ""],
-        ["Electro Magnetic Field - CAT 1 Question Paper", ""]
+        ["Communication Engineering - CAT 1 Question Paper", "https://drive.google.com/file/d/1C5j881T-GtkhsPDe2rtzjal8b9FB3pTl/view?usp=sharing"],
+        ["Control System - CAT 1 Question Paper", "https://drive.google.com/file/d/13DTrFlA5mn6yZVG0BOE2aHe0tvP9J_dS/view?usp=sharing"],
+        ["Digital Signal Processing - CAT 1 Question Paper", "https://drive.google.com/file/d/1jpTX2RFKW9K9gUijTeXp3VvRcxw7_Fgr/view?usp=sharing"],
+        ["Linear Integrated Circuits - CAT 1 Question Paper", "https://drive.google.com/file/d/1zxeRME3TPt1KxmvS2mWeDM2LQKjjrdKI/view?usp=sharing"],
+        ["Network and Security - CAT 1 Question Paper", "https://drive.google.com/file/d/11xdJWdp8fzuG_D8_N9fuApiFDfVT22NC/view?usp=sharing"],
+        ["Industrial Safety - Mandatory Course Sem N/A CAT 1 Question Paper", "https://drive.google.com/file/d/1_Omb2lR-q0MY3DBuOahi5g-bmq3pW-rV/view?usp=sharing"]
       ] },
       { name: "CAT 2 Questions", text: "Continuous assessment test 2", files: [
-        ["Communication Engineering - CAT 2 Question Paper", ""],
-        ["Control System - CAT 2 Question Paper", ""],
-        ["Digital Signal Processing - CAT 2 Question Paper", ""],
-        ["Linear Integrated Circuits - CAT 2 Question Paper", ""],
-        ["Network and Security - CAT 2 Question Paper", ""],
-        ["Electro Magnetic Field - CAT 2 Question Paper", ""]
+        ["Communication Engineering - CAT 2 Question Paper", "https://drive.google.com/file/d/1eDnFT5kVi7s90efczW7NLorDr83Fr3Kh/view?usp=sharing"],
+        ["Control System - CAT 2 Question Paper", "https://drive.google.com/file/d/1ai0IfEK0dHyqxFJQXyFwk_a8A2te3U22/view?usp=sharing"],
+        ["Digital Signal Processing - CAT 2 Question Paper", "https://drive.google.com/file/d/1pA8ZctTD-_AiJlWg1kHhDw8VgOjqZxew/view?usp=sharing"],
+        ["Linear Integrated Circuits - CAT 2 Question Paper", "https://drive.google.com/file/d/1b5LtvsaUpvvUfCrhaeoFht9XzqtAIN0I/view?usp=sharing"],
+        ["Network and Security - CAT 2 Question Paper", "https://drive.google.com/file/d/1ouN1GrYUbz5auYUj4gSwCjwyhe-CIsXz/view?usp=sharing"],
+        ["Electro Magnetic Field - CAT 2 Question Paper", "https://drive.google.com/file/d/1ePhSV0fqEeOCR3uk3cwm3vbl1Fm8ektg/view?usp=sharing"],
+        ["Industrial Safety - Mandatory Course Sem N/A CAT 2 Question Paper", "https://drive.google.com/file/d/174Rk3pO1zCOQT-cShVCiHmte6KsHlxNY/view?usp=sharing"]
       ] },
       { name: "Semester Questions", text: "End semester question papers", files: [
-        ["Communication Engineering - CAT 1 Question Paper", ""],
-        ["Control System - CAT 1 Question Paper", ""],
-        ["Digital Signal Processing - CAT 1 Question Paper", ""],
-        ["Linear Integrated Circuits - CAT 1 Question Paper", ""],
-        ["Network and Security - CAT 1 Question Paper", ""],
-        ["Electro Magnetic Field - CAT 1 Question Paper", ""]
+        ["Communication Engineering - CAT 1 Question Paper", "https://drive.google.com/file/d/1RcD67UnEwxysvuR0V5Klk4Fqdu-UxpDb/view?usp=sharing"],
+        ["Control System - CAT 1 Question Paper", "https://drive.google.com/file/d/1VNVi8x7l37u4S1wEg_3HrAOtp25Y8RlH/view?usp=sharing"],
+        ["Digital Signal Processing - CAT 1 Question Paper", "https://drive.google.com/file/d/1A0P-Lz9WwPAM46y9lsR1at8NodLtNZi-/view?usp=sharing"],
+        ["Linear Integrated Circuits - CAT 1 Question Paper", "https://drive.google.com/file/d/1MiNPGHCUddiA8zmwjDnQS2VYBUmnKiUu/view?usp=sharing"],
+        ["Network and Security - CAT 1 Question Paper", "https://drive.google.com/file/d/1ZnRNZghWHixz7n2l8Z6B92gy69i2okom/view?usp=sharing"],
+        ["Electro Magnetic Field - CAT 1 Question Paper", "https://drive.google.com/file/d/1SmCYTwyDy1y4Kl02hPZ2vY6wZ2xANTXL/view?usp=sharing"]
       ] },
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
-        ["Control System", "https://drive.google.com/file/d/17nat97sgMjJprH1orpozwLFlgnR3Sy8D/view?usp=sharing"],
-        ["Communication Engineering", ""],
-        ["Digital Signal Processing", "https://drive.google.com/file/d/1b7H3qXfzLQuFMhVAa2bPsBU-uG5hWdI9/view?usp=sharing"],
-        ["Linear Integrated Circuits", ""],
+        ["Control System Laboratory", "https://drive.google.com/file/d/17nat97sgMjJprH1orpozwLFlgnR3Sy8D/view?usp=sharing"],
+        ["Communication Engineering Lab", "https://drive.google.com/file/d/1RWQvQfszhQUNJrgczz4yi6YpnN9yUkbQ/view?usp=sharing"],
+        ["Digital Signal Processing Lab", "https://drive.google.com/file/d/1b7H3qXfzLQuFMhVAa2bPsBU-uG5hWdI9/view?usp=sharing"],
         ["Networks and Security", "https://drive.google.com/file/d/1TO2Gp-YxklGLZ2QAYQW1SLpIRxKWCa44/view?usp=sharing"]
       ] },
       { name: "Question Bank", text: "Programs and supporting data", files: [
-        ["Control System", ""],
-        ["Communication Engineering", ""],
-        ["Digital Signal Processing", "https://drive.google.com/file/d/10jH_gehq_mQ6pkjVkbQ3bekouqqnQmLQ/view?usp=sharing"],
-        ["Linear Integrated Circuits", "https://drive.google.com/file/d/1cZl8h3pMzlYy30sjver5eONn6I3zslPs/view?usp=sharing"],
-        ["Networks and Security", ""]
-        ["Electro Magnetic Field", "https://drive.google.com/file/d/10ZFOmvZcxz-IxScwtaeXjJgAwv7dMUi1/view?usp=sharing"]
-      ] },
-      { name: "Assignment", text: "Programs and supporting data", files: [
-        ["Operating Systems Programs (zip)", ""],
-        ["Networking Commands Cheat Sheet", ""],
-        ["Algorithms Practice Problems", ""]
+        ["Control System Question Bank", "https://drive.google.com/file/d/1r7lz-PG-Mdg50Jmrh30PRm12SxTRQwEy/view?usp=sharing"],
+        ["Communication Engineering Question Bank", "https://drive.google.com/file/d/17F0ybp9_ltnWI6UHCwJ2ULKcy7DqUscG/view?usp=sharing"],
+        ["Digital Signal Processing Question Bank", "https://drive.google.com/file/d/10jH_gehq_mQ6pkjVkbQ3bekouqqnQmLQ/view?usp=sharing"],
+        ["Linear Integrated Circuits Question Bank", "https://drive.google.com/file/d/1cZl8h3pMzlYy30sjver5eONn6I3zslPs/view?usp=sharing"],
+        ["Networks and Security Question Bank", "https://drive.google.com/file/d/1E5OsC-_DJhWqV41YjTfncMoqK0KCDngu/view?usp=sharing"],
+        ["Electro Magnetic Field Question Bank", "https://drive.google.com/file/d/10ZFOmvZcxz-IxScwtaeXjJgAwv7dMUi1/view?usp=sharing"]
       ] }
   ],
 
@@ -265,8 +254,8 @@ var DATA = {
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
         ["VLSI Microwind Software (zip)", "https://drive.google.com/file/d/1-DtqVYSmj0Pl119EvtxaItAwq6eAlzmY/view?usp=sharing"],
-        ["AI Practice Datasets", ""],
-        ["Web Technology Sample Projects (zip)", ""]
+        ["Matlab Software", ""],
+        ["Simens Software (zip)", ""]
       ] }
   ],
 
