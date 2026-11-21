@@ -7,8 +7,8 @@ var DATA = {
   /* ================= SEMESTER 1 ================= */
   1: [
       { name: "Study Materials", text: "Notes and reference material", files: [
-        ["Tamil - Unit 1 to 5 Notes", ""],
-        ["English - Communication Skills Notes", ""],
+        ["Heritage of Tamils - Book Reference", "https://drive.google.com/file/d/1fO91c2_gBFsQI4CrKC--d-by7wZJDNAt/view?usp=sharing"],
+        ["Engineering Physics - Notes", "https://drive.google.com/file/d/1fO91c2_gBFsQI4CrKC--d-by7wZJDNAt/view?usp=sharing"],
         ["Engineering Mathematics I - Notes", ""]
       ] },
       { name: "CAT 1 Questions", text: "Continuous assessment test 1", files: [
@@ -38,10 +38,10 @@ var DATA = {
       { name: "Lab Manuals", text: "Lab procedures and records", files: [
         ["Physics Lab Manual", ""],
         ["Chemistry Lab Manual", ""],
-        ["Python Programming Lab Manual", ""]
+        ["Basic Computing Laboratoty", "https://drive.google.com/file/d/1Po2Ta9FNQKSZjU8yv6aq3YZtp_uSAExc/view?usp=sharing"]
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
-        ["Python Sample Programs (zip)", ""],
+        ["EIE Formula Sheet (zip)", ""],
         ["Mathematics Formula Sheet", ""],
         ["Physics Reference Data", ""]
       ] }
@@ -51,7 +51,7 @@ var DATA = {
   2: [
       { name: "Study Materials", text: "Notes and reference material", files: [
         ["Technical English - Notes", "https://drive.google.com/file/d/1EvniJFf6xtZnyjqrQSdlgiynMKyl0OsN/view?usp=sharing"],
-        ["C Programming and Data Structure - Technical English Notes", "https://drive.google.com/file/d/1Gl1R6yZ_MHgP-aPJvpzWyvfaHeEezGsh/view?usp=sharing"],
+        ["C Programming and Data Structure - Notes", "https://drive.google.com/file/d/1Gl1R6yZ_MHgP-aPJvpzWyvfaHeEezGsh/view?usp=sharing"],
         ["Physics For Electronics Engineering - Notes", "https://drive.google.com/file/d/1QZmd1Fs8NUhoOdC17bwjstYgwic1xJk5/view?usp=sharing"],
         ["Environmental Science - Notes", "https://drive.google.com/file/d/1eJ8j78MDnA4WDIbMdoCNhFSlxL04-nKQ/view?usp=sharing"]
       ] },
@@ -82,7 +82,7 @@ var DATA = {
         ["C Programming and Data Structures Lab Manual", "https://drive.google.com/file/d/1Ru_StJxvS3mc-Nrn3d_KKqnEl1HXwnEv/view?usp=sharing"]
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
-        ["C Sample Programs (zip)", ""],
+        ["C Program Software (zip)", ""],
         ["Electrical Circuit Reference Data", ""],
         ["Mathematics Formula Sheet", ""]
       ] }
@@ -129,7 +129,7 @@ var DATA = {
       ] },
       { name: "Data", text: "Programs and supporting data", files: [
         ["Data Structures Programs (zip)", ""],
-        ["Digital Electronics Circuit Diagrams", ""],
+        ["Python Software", ""],
         ["Discrete Mathematics Problem Set", ""]
       ] }
   ],
@@ -255,7 +255,7 @@ var DATA = {
       { name: "Data", text: "Programs and supporting data", files: [
         ["VLSI Microwind Software (zip)", "https://drive.google.com/file/d/1-DtqVYSmj0Pl119EvtxaItAwq6eAlzmY/view?usp=sharing"],
         ["Matlab Software", ""],
-        ["Simens Software (zip)", ""]
+        ["Siemens Software (zip)", ""]
       ] }
   ],
 
